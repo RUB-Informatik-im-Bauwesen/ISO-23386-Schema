@@ -42,7 +42,7 @@
 			<xs:appinfo>
 				<dc:description xml:lang="en">
 					Container with groups of properties and properies
-					XML-Schemaversion 4.0
+					XML-Schemaversion 4.1
 				</dc:description>
 			</xs:appinfo>
 		</xs:annotation>
@@ -933,7 +933,7 @@ This attribute can be used to illustrate the possible values of the property
 										<dc:description xml:lang="en">
 											In case of a physical quantity, dimension according to ISO 80000 (all parts). 
 											This attribute allows the dimension to be machine readable; as all physical quantities are derived from 7 base quantities,
-											it is provided with the power (as a rational number) attached to a basic dimension in the following order and with one space between each.
+											it is provided with the power (as a rational number) attached to a basic dimension in the 				 	 following order and with one space between each. The order is: L | M | T | I | Θ | N | J
 											Examples of dimensions are provided in Annex C
 									</dc:description>
 										<dc:conformsTo>
